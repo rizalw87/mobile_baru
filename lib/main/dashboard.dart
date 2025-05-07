@@ -3,8 +3,6 @@ import 'package:coba_project/pages/home_page.dart';
 import 'package:coba_project/pages/setting_page.dart';
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'package:intl/intl.dart';
 
 class DashboardTes extends StatefulWidget {
   const DashboardTes({super.key});
